@@ -1,12 +1,14 @@
 {
-  "categories": [
+  "sections": [
     {
       "title": "Python by Nishant Sir",
-      "folder": "Python By Nishant Sir"
+      "folder": "Python by Nishant Sir",
+      
     },
     {
       "title": "Python by Shraddha",
-      "folder": "Python By Shraddha Mam"
+      "folder": "Python by Shraddha",
+     
     }
   ]
 }
